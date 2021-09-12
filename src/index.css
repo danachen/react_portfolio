@@ -71,3 +71,9 @@ h1.display-5 {
 footer {
   padding: 100px;
 }
+
+#search {
+  margin-right: 10px;
+  border-color: gray;
+  border-radius: 5px;
+}
